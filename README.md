@@ -1,3 +1,5 @@
+Bricen Kagawa
+
 I'm currently a student at the University of Hawaii West Oahu. 
 The degree I am currently working towards is a bachelors in Information Security Assurance (ISA). 
 I am also learning Software Development on the side. Currently 
